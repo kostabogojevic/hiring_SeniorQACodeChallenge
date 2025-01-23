@@ -1,5 +1,5 @@
 # hiring_SeniorQaCodeChallenge
-Code Challenge for hiring a Senior QA specialist
+Code Challenge for hiring a Senior QA Specialist
 
 ## Challenge Description
 You are required to create an automated test suite for this [demo site](https://magento.softwaretestingboard.com/). This challenge will test your ability to handle complex scenarios, integrate with external systems, and ensure robust test automation. You can use any test tool of your choice, such as Selenium, Cypress or similar tools.
