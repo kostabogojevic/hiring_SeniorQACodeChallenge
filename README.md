@@ -24,6 +24,7 @@ You are required to create an automated test suite for this [demo site](https://
 
 ## Instructions
 **Create Tests**: Implement the remaining test scenarios (API Integration, Parallel Test Execution, Advanced Assertions, and Reporting) in a similar manner.
+
 **Documentation**: Document your test cases, any assumptions you make, and the setup process.
 
 ## Evaluation Criteria
