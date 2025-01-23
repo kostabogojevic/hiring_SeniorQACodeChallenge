@@ -6,8 +6,11 @@ You are required to create an automated test suite for this [demo site](https://
 
 ## Scenarios to Cover
 **API Integration**: Verify that the web application correctly interacts with an external API.
+
 **Parallel Test Execution**: Configure your test suite to run tests in parallel to reduce execution time.
+
 **Advanced Assertions**: Implement custom assertions to validate complex conditions.
+
 **Reporting**: Generate detailed test reports with screenshots for failed tests.
 
 ## Setup
