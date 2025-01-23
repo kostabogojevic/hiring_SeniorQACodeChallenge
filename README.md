@@ -25,7 +25,11 @@ You are required to create an automated test suite for this [demo site](https://
 
 ## Evaluation Criteria
 **Completeness**: How well you cover the most valuable scenarios need to cover all scenarios. You can describe in the SETUP.md file, what you could do more if you have more time.
+
 **Code Quality**: Readability, maintainability, and use of best practices.
+
 **Documentation**: Clarity and thoroughness of your documentation.
+
 **Problem-Solving**: How you handle any challenges or edge cases.
+
 **Efficiency**: Use of parallel execution and reporting to optimize the test suite.
