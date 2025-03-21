@@ -11,7 +11,7 @@ You are required to create an automated test suite for this [demo site](https://
 
 **Advanced Assertions**: Implement custom assertions to validate complex conditions.
 
-**Reporting**: Generate detailed test reports with screenshots for failed tests.
+**Reporting**: Generate detailed test reports, including screenshots of failed tests, and provide them as evidence of a working solution.
 
 ## Setup
 1. Fork this repository
